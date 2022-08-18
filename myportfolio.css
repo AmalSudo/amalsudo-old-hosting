@@ -1,0 +1,95 @@
+.myimage{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.top{
+    background-image: url("/C:/Users/Codebrave/Desktop/background.jpg");
+}
+.topnav{
+    margin-left: 40px;
+    display: inline;
+    background-color: #4169E2;
+    width: 100%;
+    border:2px solid #4169E2;
+	height: 100px;
+	margin: 0px;
+	position:fixed;
+	z-index: 100;
+	top:0;
+}
+
+.nav{
+    float:right;
+    padding: 20px;
+    display: inline;
+    font-size: 25px;
+    color: black;
+    padding-top: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.nav:hover{
+    border: 1px solid #fcf948;
+    background-color: #fcf948;
+    text-decoration:underline;
+}
+
+
+
+.all{
+    margin-left: 350px;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.name1{
+    border: 2px solid #fcf948;
+    background-color: #fcf948;
+    width: fit-content;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footer{
+    margin-top:20px;
+    text-align:center;
+    background-color:rgb(214, 212, 212);
+    height: fit-content;
+    align-items: center;
+    margin-bottom: 0%;
+
+}
+
+.d{
+    font-size: 30px;
+    padding: 0%;
+    font-weight:bolder ;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.link{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    padding-top: 40px;
+}
+
+.link:hover{
+    color: #fcf948;
+    text-decoration: underline;
+}
+
+.contact{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+
+}
+
+.contact:hover{
+    text-decoration: underline;
+    color: #4169E2;
+}
